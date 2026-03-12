@@ -45,21 +45,3 @@ A simple Java-based broadcast server and client application.
 ## Note
 
 Modify PORT in BroadcastApp.java to change the default port.
-
-## Testing
-
-- BroadcastServer
-![server](</git-assets/server.png>)
-
-
-- BroadcastClient - 1
-![client1](</git-assets/client1.png>)
-
-- BroadcastClient - 2
-![client2](</git-assets/client2.png>)
-
-- BroadcastClient - 3
-![client3](</git-assets/client3.png>)
-
-
-[challenge](https://roadmap.sh/projects/broadcast-server)
